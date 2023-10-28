@@ -21,10 +21,10 @@
             <th  colspan="4">ОСНОВИ НА ЕЗИКА JAVA</th>
         </tr>
         <tr>
-            <th>N</th>
-            <th width="300px">Тема</th>
+            <th width="120">N</th>
+            <th width="280px">Тема</th>
             <th width="460px">Какво разглеждаме</th>
-            <th>Ресурси</th>
+            <th width="150px">Ресурси</th>
         </tr>
     </thead>
     <tbody>
@@ -128,10 +128,10 @@
             <th  colspan="4">ОБЕКТНО ОРИЕНТИРАНО ПРОГРАМИРАНЕ</th>
         </tr>
         <tr>
-            <th>N</th>
-            <th width="300px">Тема</th>
+            <th width="120">N</th>
+            <th width="280px">Тема</th>
             <th width="460px">Какво разглеждаме</th>
-            <th>Ресурси</th>
+            <th width="150px">Ресурси</th>
         </tr>
     </thead>
     <tbody>
