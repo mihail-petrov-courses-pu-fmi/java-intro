@@ -29,7 +29,7 @@
         <tr>
             <td>
                 <code>среща 1</code><br>
-                <sub>📅07.04.2022</sub>
+                <sub>📅 07.04</sub>
             </td>
             <td>
                 <a href="./week-1/README.md">
@@ -52,7 +52,7 @@
             <td>
                 <code>среща 2</code>
                 <br>
-                <sub>📅14.04.2022</sub>
+                <sub>📅 14.04</sub>
             </td>
             <td>
                 <a href="./week-2/README.md">
@@ -74,7 +74,7 @@
             <td>
                 <code>среща 3</code>
                 <br>
-                <sub>📅21.04.2022</sub>
+                <sub>📅 21.04</sub>
             </td>
             <td>
                 <a href="./week-3/README.md">
@@ -94,7 +94,7 @@
             <td>
                 <code>среща 4</code>
                 <br>
-                <sub>📅28.04.2022</sub>
+                <sub>📅 28.04</sub>
             </td>
             <td>
                 <a href="./week-4/README.md">
@@ -112,7 +112,7 @@
             <td>
                 <code>среща 5</code>
                 <br>
-                <sub>📅28.04.2022</sub>
+                <sub>📅 28.04</sub>
             </td>
             <td>
                 <a href="./week-5/README.md">
@@ -129,7 +129,7 @@
             <td>
                 <code>среща 6</code>
                 <br>
-                <sub>📅05.05.2022</sub>
+                <sub>📅 05.05</sub>
             </td>
             <td>
                 <a href="./week-6/README.md">
@@ -148,7 +148,7 @@
             <td>
                 <code>среща 7</code>
                 <br>
-                <sub>📅12.05.2022</sub>
+                <sub>📅 12.05</sub>
             </td>
             <td>
                 <a href="./week-7/README.md">
@@ -166,7 +166,7 @@
             <td>
                 <code>среща 8</code>
                 <br>
-                <sub>📅19.05.2022</sub>
+                <sub>📅 19.05</sub>
             </td>
             <td>
                 <a href="./week-8/README.md">
@@ -183,7 +183,7 @@
             <td>
                 <code>среща 9</code>
                 <br>
-                <sub>📅26.05.2022</sub>
+                <sub>📅 26.05</sub>
             </td>
             <td>
                 <a href="./week-9/README.md">
